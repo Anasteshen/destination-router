@@ -1,0 +1,11 @@
+# Node.js
+/node_modules
+
+# Compiled output
+/build
+
+# Local env files
+.env.local
+.env.*.local
+
+.DS_Store
